@@ -34,6 +34,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "5714afea-f71c-4da9-914a-1c1346a22467"
+      }
+    },
+    "owner": "sergiosrtd"
   }
 }
